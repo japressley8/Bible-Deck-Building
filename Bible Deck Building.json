@@ -30,7 +30,7 @@
     "cardIdStop": "",
     "cardImageFileType": "jpg",
     "cardImageProperty": "",
-    "cardImageUrl": "https://raw.githubusercontent.com/japressley8/Bible-Deck-Building/refs/heads/main/sets/{cardSet}/{cardId}.png",
+    "cardImageUrl": "https://raw.githubusercontent.com/japressley8/Bible-Deck-Building/refs/heads/main/sets/{cardSet}/{cardId}.jpg",
     "cardNameBackIdentifier": "",
     "cardNameIdentifier": "name",
     "cardNameIsUnique": true,
