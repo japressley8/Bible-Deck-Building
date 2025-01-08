@@ -1,0 +1,328 @@
+{
+    "name": "Bible Deck Building",
+    "allCardsUrl": null,
+    "allCardsUrlPageCount": 1,
+    "allCardsUrlPageCountIdentifier": "",
+    "allCardsUrlPageCountDivisor": 1,
+    "allCardsUrlPageCountStartIndex": 1,
+    "allCardsUrlPageIdentifier": "?page=",
+    "allCardsUrlPostBodyContent": "",
+    "allCardsUrlRequestHeader": "X-Api-Key",
+    "allCardsUrlRequestHeaderValue": "",
+    "allCardsUrlWrapped": false,
+    "allCardsUrlZipped": false,
+    "allDecksUrl": null,
+    "allDecksUrlDataIdentifier": "",
+    "allDecksUrlPostBodyContent": "",
+    "allDecksUrlTxtRoot": "",
+    "allSetsUrl": null,
+    "allSetsUrlWrapped": false,
+    "allSetsUrlZipped": false,
+    "autoUpdate": 1,
+    "autoUpdateUrl": "https://cgs.games/api/proxy/drive.google.com/drive/folders/1zgCc3uq_jEDJk6nMs4Wal4ux6B_f0ywf?usp=sharing",
+    "bannerImageFileType": "jpg",
+    "bannerImageUrl": "https://drive.google.com/file/d/1Tea3xE8XUbJZF5yPIPWJDHCaDTrSDuxJ/view?usp=drive_link",
+    "cardBackFaceImageUrls": [],
+    "cardBackImageFileType": "jpg",
+    "cardBackImageUrl": "https://drive.google.com/file/d/1BmkdmrfyoBoDqRPYG1uLwCTjNQkB9G5y/view?usp=drive_link",
+    "cardDataIdentifier": "",
+    "cardIdIdentifier": "id",
+    "cardIdStop": "",
+    "cardImageFileType": "png",
+    "cardImageProperty": "",
+    "cardImageUrl": "",
+    "cardNameBackIdentifier": "",
+    "cardNameIdentifier": "name",
+    "cardNameIsUnique": true,
+    "cardPrimaryProperty": "description",
+    "cardProperties": [],
+    "cardPropertyIdentifier": "id",
+    "cardRotationDefault": 0,
+    "cardRotationIdentifier": "",
+    "cardSetIdentifier": "setCode",
+    "cardSetIsObject": false,
+    "cardSetNameIdentifier": "setname",
+    "cardSetsInList": false,
+    "cardSetsInListIsCsv": false,
+    "cardSize": {
+        "x": 2.5,
+        "y": 3.5
+    },
+    "cgsGamesLink": null,
+    "copyright": "www.thechosen.tv, cryptozoic.com",
+    "deckFileAltId": "dbfId",
+    "deckFileTxtId": "set",
+    "deckFileType": "txt",
+    "deckPlayCards": [],
+    "deckSharePreference": "share",
+    "deckUrls": [
+        {
+            "name": "Base - Main Deck",
+			"url": "https://drive.google.com/file/d/1qX52BpyBILe6ijno_xK9Ipcsb6iw316X/view?usp=drive_link"
+        },
+        {
+            "name": "Base - Starters",
+			"url": "https://drive.google.com/file/d/1m1FNZlGyDSrcPQOBh-7CUVERqOBGH6tW/view?usp=drive_link"
+        },
+        {
+            "name": "Base - Blessings",
+			"url": "https://drive.google.com/file/d/1Z4NnIMiRo4f0NNl84TKDWbIWS8OyVU_S/view?usp=drive_link"
+        },
+        {
+            "name": "Base - Evil Oppressors",
+			"url": "https://drive.google.com/file/d/1mgbktAm-IZbt0BgBRD9L20wZ4Z6as8yN/view?usp=drive_link"
+        },
+        {
+            "name": "Base - Sins",
+			"url": "https://drive.google.com/file/d/1SjetSylLnI5e-95R2L5Me2SYI5oYDBD5/view?usp=drive_link"
+        },
+        {
+            "name": "Base - Heroes of Faith",
+			"url": "https://drive.google.com/file/d/1MSjIA6fiK80sdfWVIta7-jqVk78LdnDE/view?usp=drive_link"
+        },
+        {
+            "name": "Expansion Pack Rules",
+			"url": "https://drive.google.com/file/d/1JFSLHT1OEvfVAXFvKSxMToWqnK1A_5P1/view?usp=drive_link"
+        },
+        {
+            "name": "CON - Deck",
+			"url": "https://drive.google.com/file/d/1UutnNzNqrgCOyegzbOo7oGihNprdR4-g/view?usp=drive_link"
+        },
+        {
+            "name": "CON - Converted",
+			"url": "https://drive.google.com/file/d/1xoJDxSbRpmuDuVbf8EIwqQJYvhJ9a2OQ/view?usp=drive_link"
+        },
+        {
+            "name": "CON - Heroes of Faith",
+			"url": "https://drive.google.com/file/d/1uca8NKpXvrxILHisPDzJn-xVHZ2s78OY/view?usp=drive_link"
+        },
+        {
+            "name": "CON - Evil Oppressors",
+			"url": "https://drive.google.com/file/d/1rUB-07gbHGJQ62PQt8eVhRxUp8oiSq-t/view?usp=drive_link"
+        },
+        {
+            "name": "PrJ - Deck",
+			"url": "https://drive.google.com/file/d/1em9HB6AivWwc6a0acl0xP2wSPMo7Iihv/view?usp=drive_link"
+        },
+        {
+            "name": "PrJ - Evil Oppressors",
+			"url": "https://drive.google.com/file/d/1DBo6TgcFGd6TknKQpJvMaVdze0Ki2OZa/view?usp=drive_link"
+        },
+        {
+            "name": "PrJ - Heroes of Faith",
+			"url": "https://drive.google.com/file/d/1tFmb26BeGT5coO_JXRm0plh1EuF_njCY/view?usp=drive_link"
+        },
+        {
+            "name": "PrJ - Judgments",
+			"url": "https://drive.google.com/file/d/16k7ZAbqPDireSjVg2BKSP94OCOfEUaHn/view?usp=drive_link"
+        },
+        {
+            "name": "SG - Deck",
+			"url": "https://drive.google.com/file/d/1nZ2ed1_MtwiZ0I7EZX6orUAUGQ5Ey9qF/view?usp=drive_link"
+        },
+        {
+            "name": "SG - Evil Oppressors",
+			"url": "https://drive.google.com/file/d/1s_RxqLlEMXGZlWbT5H1yj5fyv1yQTe8a/view?usp=drive_link"
+        },
+        {
+            "name": "SG Alt - Deck Cost 1-3",
+			"url": "https://drive.google.com/file/d/1YT5HoBohg-W7McsEDFxOeIkYT6Qez3AO/view?usp=drive_link"
+        },
+        {
+            "name": "SG Alt - Deck Cost 4-5",
+			"url": "https://drive.google.com/file/d/19aTabz6m6FyKd8-Ywla-9RzuUdQ-cylJ/view?usp=drive_link"
+        },
+        {
+            "name": "SG Alt - Heroes of Faith Cost 6",
+			"url": "https://drive.google.com/file/d/1dIOqtV5eOXClmBYTG9nZE9CKSAYl0uIS/view?usp=drive_link"
+        },
+        {
+            "name": "SG Alt - Heroes of Faith Cost 10",
+			"url": "https://drive.google.com/file/d/1ptEpq2Kc2pX_GsvUKoudaZnbvkIMCfkI/view?usp=drive_link"
+        },
+        {
+            "name": "SG Alt - Heroes of Faith Cost 14",
+			"url": "https://drive.google.com/file/d/1nfl5RFL0ClLHwi8yQsRr1rV-1dgOQBZU/view?usp=drive_link"
+        }
+    ],
+    "enums": [],
+    "extras": [],
+    "gameBoardImageFileType": "png",
+    "gameBoardCards": [],
+    "gameBoardUrls": [],
+    "gameCardRotationDegrees": 90,
+    "gameDefaultCardAction": "flip",
+    "gamePlayDeckName": " ",
+    "gamePlayDeckPositions": [
+        {
+			"x": -11,
+			"y": 0
+		},
+        {
+            "x": 19,
+			"y": -5
+        },
+        {
+            "x": 14,
+			"y": -5
+        },
+        {
+            "x": 14,
+			"y": 0
+        },
+        {
+            "x": 14,
+			"y": 5
+        },
+        {
+            "x": -16,
+			"y": -2.5
+        }
+    ],
+    "gamePlayZones": [
+        {
+			"defaultCardAction": "flip",
+			"face": "up",
+			"position": {
+				"x": 1.5,
+				"y": 0
+			},
+			"rotation": 0,
+			"size": {
+				"x": 19,
+				"y": 4
+			},
+			"type": "horizontal"
+		},
+        {
+			"defaultCardAction": "flip",
+			"face": "up",
+			"position": {
+				"x": -15.5,
+				"y": -34.25
+			},
+			"rotation": 0,
+			"size": {
+				"x": 11,
+				"y": 4
+			},
+			"type": "horizontal"
+		},
+        {
+			"defaultCardAction": "flip",
+			"face": "up",
+			"position": {
+				"x": 38.5,
+				"y": -34.25
+			},
+			"rotation": 0,
+			"size": {
+				"x": 11,
+				"y": 4
+			},
+			"type": "horizontal"
+		},
+        {
+			"defaultCardAction": "flip",
+			"face": "up",
+			"position": {
+				"x": 34.25,
+				"y": 11.5
+			},
+			"rotation": 90,
+			"size": {
+				"x": 11,
+				"y": 4
+			},
+			"type": "horizontal"
+		},
+        {
+			"defaultCardAction": "flip",
+			"face": "up",
+			"position": {
+				"x": 15.5,
+				"y": 34.25
+			},
+			"rotation": 180,
+			"size": {
+				"x": 11,
+				"y": 4
+			},
+			"type": "horizontal"
+		},
+        {
+			"defaultCardAction": "flip",
+			"face": "up",
+			"position": {
+				"x": -38.5,
+				"y": 34.25
+			},
+			"rotation": 180,
+			"size": {
+				"x": 11,
+				"y": 4
+			},
+			"type": "horizontal"
+		},
+        {
+			"defaultCardAction": "flip",
+			"face": "up",
+			"position": {
+				"x": -34.25,
+				"y": -11.5
+			},
+			"rotation": 270,
+			"size": {
+				"x": 11,
+				"y": 4
+			},
+			"type": "horizontal"
+		}
+    ],
+    "gameStartDecks": [
+        {
+            "name": "Base - Main Deck",
+			"url": "https://drive.google.com/file/d/1qX52BpyBILe6ijno_xK9Ipcsb6iw316X/view?usp=drive_link"
+        },
+        {
+            "name": "Base - Starters",
+			"url": "https://drive.google.com/file/d/1m1FNZlGyDSrcPQOBh-7CUVERqOBGH6tW/view?usp=drive_link"
+        },
+        {
+            "name": "Base - Blessings",
+			"url": "https://drive.google.com/file/d/1Z4NnIMiRo4f0NNl84TKDWbIWS8OyVU_S/view?usp=drive_link"
+        },
+        {
+            "name": "Base - Evil Oppressors",
+			"url": "https://drive.google.com/file/d/1mgbktAm-IZbt0BgBRD9L20wZ4Z6as8yN/view?usp=drive_link"
+        },
+        {
+            "name": "Base - Sins",
+			"url": "https://drive.google.com/file/d/1SjetSylLnI5e-95R2L5Me2SYI5oYDBD5/view?usp=drive_link"
+        },
+        {
+            "name": "Base - Heroes of Faith",
+			"url": "https://drive.google.com/file/d/1MSjIA6fiK80sdfWVIta7-jqVk78LdnDE/view?usp=drive_link"
+        }
+    ],
+    "gameStartHandCount": 0,
+    "gameStartPointsCount": 0,
+    "playMatImageFileType": "jpg",
+    "playMatImageUrl": "https://drive.google.com/file/d/1-BmVnSoZ9mB26ONG6Ko39XwOOeL4eHPH/view?usp=drive_link",
+    "playMatSize": {
+        "x": 100.0,
+        "y": 100.0
+    },
+    "playMatGridCellSize": {
+        "x": 0.1,
+        "y": 0.1
+    },
+    "rulesUrl": "https://static1.squarespace.com/static/587a56b8e6f2e1f8d78f4604/t/5887982bff7c50371b96a52e/1485281325489/KristieOchal-Instructions+Writing+Sample.pdf",
+    "setCardsIdentifier": "cards",
+    "setCardsUrlIdentifier": "cardsUrl",
+    "setCodeDefault": "_CGSDEFAULT_",
+    "setCodeIdentifier": "code",
+    "setDataIdentifier": "",
+    "setNameDefault": "_CGSDEFAULT_",
+    "setNameIdentifier": "name"
+}
