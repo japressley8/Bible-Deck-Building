@@ -18,7 +18,7 @@
     "allSetsUrl": null,
     "allSetsUrlWrapped": false,
     "allSetsUrlZipped": false,
-    "autoUpdate": 1,
+    "autoUpdate": 0,
     "autoUpdateUrl": "https://raw.githubusercontent.com/japressley8/Bible-Deck-Building/refs/heads/main/Bible%20Deck%20Building.json",
     "bannerImageFileType": "jpg",
     "bannerImageUrl": "https://raw.githubusercontent.com/japressley8/Bible-Deck-Building/refs/heads/main/Banner.jpg",
