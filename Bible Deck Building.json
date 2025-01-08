@@ -1,6 +1,6 @@
 {
     "name": "Bible Deck Building",
-    "allCardsUrl": null,
+    "allCardsUrl": "https://raw.githubusercontent.com/japressley8/Bible-Deck-Building/refs/heads/main/AllCards.json",
     "allCardsUrlPageCount": 1,
     "allCardsUrlPageCountIdentifier": "",
     "allCardsUrlPageCountDivisor": 1,
@@ -58,91 +58,91 @@
     "deckUrls": [
         {
             "name": "Base - Main Deck",
-			"url": "https://drive.google.com/file/d/1qX52BpyBILe6ijno_xK9Ipcsb6iw316X/view?usp=drive_link"
+			"url": "https://raw.githubusercontent.com/japressley8/Bible-Deck-Building/refs/heads/main/decks/Base%20-%20Main%20Deck.txt"
         },
         {
             "name": "Base - Starters",
-			"url": "https://drive.google.com/file/d/1m1FNZlGyDSrcPQOBh-7CUVERqOBGH6tW/view?usp=drive_link"
+			"url": "https://raw.githubusercontent.com/japressley8/Bible-Deck-Building/refs/heads/main/decks/Base%20-%20Starters.txt"
         },
         {
             "name": "Base - Blessings",
-			"url": "https://drive.google.com/file/d/1Z4NnIMiRo4f0NNl84TKDWbIWS8OyVU_S/view?usp=drive_link"
+			"url": "https://raw.githubusercontent.com/japressley8/Bible-Deck-Building/refs/heads/main/decks/Base%20-%20Blessings.txt"
         },
         {
             "name": "Base - Evil Oppressors",
-			"url": "https://drive.google.com/file/d/1mgbktAm-IZbt0BgBRD9L20wZ4Z6as8yN/view?usp=drive_link"
+			"url": "https://raw.githubusercontent.com/japressley8/Bible-Deck-Building/refs/heads/main/decks/Base%20-%20Evil%20Oppressors.txt"
         },
         {
             "name": "Base - Sins",
-			"url": "https://drive.google.com/file/d/1SjetSylLnI5e-95R2L5Me2SYI5oYDBD5/view?usp=drive_link"
+			"url": "https://raw.githubusercontent.com/japressley8/Bible-Deck-Building/refs/heads/main/decks/Base%20-%20Sins.txt"
         },
         {
             "name": "Base - Heroes of Faith",
-			"url": "https://drive.google.com/file/d/1MSjIA6fiK80sdfWVIta7-jqVk78LdnDE/view?usp=drive_link"
+			"url": "https://raw.githubusercontent.com/japressley8/Bible-Deck-Building/refs/heads/main/decks/Base%20-%20Heroes%20of%20Faith.txt"
         },
         {
             "name": "Expansion Pack Rules",
-			"url": "https://drive.google.com/file/d/1JFSLHT1OEvfVAXFvKSxMToWqnK1A_5P1/view?usp=drive_link"
+			"url": "https://raw.githubusercontent.com/japressley8/Bible-Deck-Building/refs/heads/main/decks/Expansion%20Pack%20Rules.txt"
         },
         {
             "name": "CON - Deck",
-			"url": "https://drive.google.com/file/d/1UutnNzNqrgCOyegzbOo7oGihNprdR4-g/view?usp=drive_link"
+			"url": "https://raw.githubusercontent.com/japressley8/Bible-Deck-Building/refs/heads/main/decks/CON%20-%20Deck.txt"
         },
         {
             "name": "CON - Converted",
-			"url": "https://drive.google.com/file/d/1xoJDxSbRpmuDuVbf8EIwqQJYvhJ9a2OQ/view?usp=drive_link"
+			"url": "https://raw.githubusercontent.com/japressley8/Bible-Deck-Building/refs/heads/main/decks/CON%20-%20Converted.txt"
         },
         {
             "name": "CON - Heroes of Faith",
-			"url": "https://drive.google.com/file/d/1uca8NKpXvrxILHisPDzJn-xVHZ2s78OY/view?usp=drive_link"
+			"url": "https://raw.githubusercontent.com/japressley8/Bible-Deck-Building/refs/heads/main/decks/CON%20-%20Heroes%20of%20Faith.txt"
         },
         {
             "name": "CON - Evil Oppressors",
-			"url": "https://drive.google.com/file/d/1rUB-07gbHGJQ62PQt8eVhRxUp8oiSq-t/view?usp=drive_link"
+			"url": "https://raw.githubusercontent.com/japressley8/Bible-Deck-Building/refs/heads/main/decks/CON%20-%20Evil%20Oppressors.txt"
         },
         {
             "name": "PrJ - Deck",
-			"url": "https://drive.google.com/file/d/1em9HB6AivWwc6a0acl0xP2wSPMo7Iihv/view?usp=drive_link"
+			"url": "https://raw.githubusercontent.com/japressley8/Bible-Deck-Building/refs/heads/main/decks/PrJ%20-%20Deck.txt"
         },
         {
             "name": "PrJ - Evil Oppressors",
-			"url": "https://drive.google.com/file/d/1DBo6TgcFGd6TknKQpJvMaVdze0Ki2OZa/view?usp=drive_link"
+			"url": "https://raw.githubusercontent.com/japressley8/Bible-Deck-Building/refs/heads/main/decks/PrJ%20-%20Evil%20Oppressors.txt"
         },
         {
             "name": "PrJ - Heroes of Faith",
-			"url": "https://drive.google.com/file/d/1tFmb26BeGT5coO_JXRm0plh1EuF_njCY/view?usp=drive_link"
+			"url": "https://raw.githubusercontent.com/japressley8/Bible-Deck-Building/refs/heads/main/decks/PrJ%20-%20Heroes%20of%20Faith.txt"
         },
         {
             "name": "PrJ - Judgments",
-			"url": "https://drive.google.com/file/d/16k7ZAbqPDireSjVg2BKSP94OCOfEUaHn/view?usp=drive_link"
+			"url": "https://raw.githubusercontent.com/japressley8/Bible-Deck-Building/refs/heads/main/decks/PrJ%20-%20Judgments.txt"
         },
         {
             "name": "SG - Deck",
-			"url": "https://drive.google.com/file/d/1nZ2ed1_MtwiZ0I7EZX6orUAUGQ5Ey9qF/view?usp=drive_link"
+			"url": "https://raw.githubusercontent.com/japressley8/Bible-Deck-Building/refs/heads/main/decks/SG%20-%20Deck.txt"
         },
         {
             "name": "SG - Evil Oppressors",
-			"url": "https://drive.google.com/file/d/1s_RxqLlEMXGZlWbT5H1yj5fyv1yQTe8a/view?usp=drive_link"
+			"url": "https://raw.githubusercontent.com/japressley8/Bible-Deck-Building/refs/heads/main/decks/SG%20-%20Evil%20Oppressors.txt"
         },
         {
             "name": "SG Alt - Deck Cost 1-3",
-			"url": "https://drive.google.com/file/d/1YT5HoBohg-W7McsEDFxOeIkYT6Qez3AO/view?usp=drive_link"
+			"url": "https://raw.githubusercontent.com/japressley8/Bible-Deck-Building/refs/heads/main/decks/SG%20Alt%20-%20Deck%20Cost%201-3.txt"
         },
         {
             "name": "SG Alt - Deck Cost 4-5",
-			"url": "https://drive.google.com/file/d/19aTabz6m6FyKd8-Ywla-9RzuUdQ-cylJ/view?usp=drive_link"
+			"url": "https://raw.githubusercontent.com/japressley8/Bible-Deck-Building/refs/heads/main/decks/SG%20Alt%20-%20Deck%20Cost%204-5.txt"
         },
         {
             "name": "SG Alt - Heroes of Faith Cost 6",
-			"url": "https://drive.google.com/file/d/1dIOqtV5eOXClmBYTG9nZE9CKSAYl0uIS/view?usp=drive_link"
+			"url": "https://raw.githubusercontent.com/japressley8/Bible-Deck-Building/refs/heads/main/decks/SG%20Alt%20-%20Heroes%20of%20Faith%20Cost%206.txt"
         },
         {
             "name": "SG Alt - Heroes of Faith Cost 10",
-			"url": "https://drive.google.com/file/d/1ptEpq2Kc2pX_GsvUKoudaZnbvkIMCfkI/view?usp=drive_link"
+			"url": "https://raw.githubusercontent.com/japressley8/Bible-Deck-Building/refs/heads/main/decks/SG%20Alt%20-%20Heroes%20of%20Faith%20Cost%2010.txt"
         },
         {
             "name": "SG Alt - Heroes of Faith Cost 14",
-			"url": "https://drive.google.com/file/d/1nfl5RFL0ClLHwi8yQsRr1rV-1dgOQBZU/view?usp=drive_link"
+			"url": "https://raw.githubusercontent.com/japressley8/Bible-Deck-Building/refs/heads/main/decks/SG%20Alt%20-%20Heroes%20of%20Faith%20Cost%2014.txt"
         }
     ],
     "enums": [],
@@ -282,27 +282,27 @@
     "gameStartDecks": [
         {
             "name": "Base - Main Deck",
-			"url": "https://drive.google.com/file/d/1qX52BpyBILe6ijno_xK9Ipcsb6iw316X/view?usp=drive_link"
+			"url": "https://raw.githubusercontent.com/japressley8/Bible-Deck-Building/refs/heads/main/decks/Base%20-%20Main%20Deck.txt"
         },
         {
             "name": "Base - Starters",
-			"url": "https://drive.google.com/file/d/1m1FNZlGyDSrcPQOBh-7CUVERqOBGH6tW/view?usp=drive_link"
+			"url": "https://raw.githubusercontent.com/japressley8/Bible-Deck-Building/refs/heads/main/decks/Base%20-%20Starters.txt"
         },
         {
             "name": "Base - Blessings",
-			"url": "https://drive.google.com/file/d/1Z4NnIMiRo4f0NNl84TKDWbIWS8OyVU_S/view?usp=drive_link"
+			"url": "https://raw.githubusercontent.com/japressley8/Bible-Deck-Building/refs/heads/main/decks/Base%20-%20Blessings.txt"
         },
         {
             "name": "Base - Evil Oppressors",
-			"url": "https://drive.google.com/file/d/1mgbktAm-IZbt0BgBRD9L20wZ4Z6as8yN/view?usp=drive_link"
+			"url": "https://raw.githubusercontent.com/japressley8/Bible-Deck-Building/refs/heads/main/decks/Base%20-%20Evil%20Oppressors.txt"
         },
         {
             "name": "Base - Sins",
-			"url": "https://drive.google.com/file/d/1SjetSylLnI5e-95R2L5Me2SYI5oYDBD5/view?usp=drive_link"
+			"url": "https://raw.githubusercontent.com/japressley8/Bible-Deck-Building/refs/heads/main/decks/Base%20-%20Sins.txt"
         },
         {
             "name": "Base - Heroes of Faith",
-			"url": "https://drive.google.com/file/d/1MSjIA6fiK80sdfWVIta7-jqVk78LdnDE/view?usp=drive_link"
+			"url": "https://raw.githubusercontent.com/japressley8/Bible-Deck-Building/refs/heads/main/decks/Base%20-%20Heroes%20of%20Faith.txt"
         }
     ],
     "gameStartHandCount": 0,
