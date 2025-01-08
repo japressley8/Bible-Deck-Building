@@ -155,28 +155,28 @@
     "gamePlayDeckName": " ",
     "gamePlayDeckPositions": [
         {
-			"x": -11,
-			"y": 0
+			"x": -12.15,
+			"y": 0.1
 		},
         {
-            "x": 19,
-			"y": -5
+            "x": 17.85,
+			"y": -4.9
         },
         {
-            "x": 14,
-			"y": -5
+            "x": 12.85,
+			"y": -4.9
         },
         {
-            "x": 14,
-			"y": 0
+            "x": 12.85,
+			"y": 0.1
         },
         {
-            "x": 14,
-			"y": 5
+            "x": 12.85,
+			"y": 5.1
         },
         {
-            "x": -16,
-			"y": -2.5
+            "x": -17.15,
+			"y": -2.4
         }
     ],
     "gamePlayZones": [
@@ -184,8 +184,8 @@
 			"defaultCardAction": "flip",
 			"face": "up",
 			"position": {
-				"x": 1.5,
-				"y": 0
+				"x": 0.3,
+				"y": 0.1
 			},
 			"rotation": 0,
 			"size": {
@@ -198,8 +198,8 @@
 			"defaultCardAction": "flip",
 			"face": "up",
 			"position": {
-				"x": -15.5,
-				"y": -34.25
+				"x": -11.15,
+				"y": -30
 			},
 			"rotation": 0,
 			"size": {
@@ -212,8 +212,8 @@
 			"defaultCardAction": "flip",
 			"face": "up",
 			"position": {
-				"x": 38.5,
-				"y": -34.25
+				"x": 34.15,
+				"y": -30
 			},
 			"rotation": 0,
 			"size": {
@@ -226,7 +226,7 @@
 			"defaultCardAction": "flip",
 			"face": "up",
 			"position": {
-				"x": 34.25,
+				"x": 30.15,
 				"y": 11.5
 			},
 			"rotation": 90,
@@ -240,8 +240,8 @@
 			"defaultCardAction": "flip",
 			"face": "up",
 			"position": {
-				"x": 15.5,
-				"y": 34.25
+				"x": 11.15,
+				"y": 29.85
 			},
 			"rotation": 180,
 			"size": {
@@ -254,8 +254,8 @@
 			"defaultCardAction": "flip",
 			"face": "up",
 			"position": {
-				"x": -38.5,
-				"y": 34.25
+				"x": -34.15,
+				"y": 29.85
 			},
 			"rotation": 180,
 			"size": {
@@ -268,7 +268,7 @@
 			"defaultCardAction": "flip",
 			"face": "up",
 			"position": {
-				"x": -34.25,
+				"x": -29.85,
 				"y": -11.5
 			},
 			"rotation": 270,
