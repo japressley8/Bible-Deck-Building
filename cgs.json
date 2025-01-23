@@ -199,7 +199,7 @@
 			"face": "up",
 			"position": {
 				"x": -11.15,
-				"y": -30
+				"y": -14.6
 			},
 			"rotation": 0,
 			"size": {
@@ -213,7 +213,7 @@
 			"face": "up",
 			"position": {
 				"x": 34.15,
-				"y": -30
+				"y": -14.6
 			},
 			"rotation": 0,
 			"size": {
@@ -226,22 +226,8 @@
 			"defaultCardAction": "flip",
 			"face": "up",
 			"position": {
-				"x": 30.15,
-				"y": 11.5
-			},
-			"rotation": 90,
-			"size": {
-				"x": 11,
-				"y": 4
-			},
-			"type": "horizontal"
-		},
-        {
-			"defaultCardAction": "flip",
-			"face": "up",
-			"position": {
 				"x": 11.15,
-				"y": 29.85
+				"y": 14.6
 			},
 			"rotation": 180,
 			"size": {
@@ -255,23 +241,9 @@
 			"face": "up",
 			"position": {
 				"x": -34.15,
-				"y": 29.85
+				"y": 14.6
 			},
 			"rotation": 180,
-			"size": {
-				"x": 11,
-				"y": 4
-			},
-			"type": "horizontal"
-		},
-        {
-			"defaultCardAction": "flip",
-			"face": "up",
-			"position": {
-				"x": -29.85,
-				"y": -11.5
-			},
-			"rotation": 270,
 			"size": {
 				"x": 11,
 				"y": 4
@@ -311,7 +283,7 @@
     "playMatImageUrl": "https://raw.githubusercontent.com/japressley8/Bible-Deck-Building/refs/heads/main/PlayMat.jpg",
     "playMatSize": {
         "x": 100.0,
-        "y": 100.0
+        "y": 70.0
     },
     "playMatGridCellSize": {
         "x": 0.1,
